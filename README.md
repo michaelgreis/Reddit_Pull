@@ -1,0 +1,1 @@
+This project is intended for personal use. It will use Reddit's API to pull data ofr analysis.
