@@ -15,4 +15,10 @@ try:
 except Exception as e: 
     print(e)
     print('Read Failed')
-    
+
+try:
+    rp.pull_sub_data(r_connection,'austin')
+except Exception as e: 
+    print(e)
+    print('Read Failed')
+
